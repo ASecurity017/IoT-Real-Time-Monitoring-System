@@ -3,4 +3,6 @@
 
 
 <br>
+# Image of the of the hardware of the project
+<br>
 <img width="697" height="626" alt="image" src="https://github.com/user-attachments/assets/7e0a19c5-da2d-45c7-aa94-8206250ca23d" />
