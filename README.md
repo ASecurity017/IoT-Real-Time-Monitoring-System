@@ -92,3 +92,8 @@ Both scripts support two-way communication — sending control commands to the A
    python experiment1withvoice.py
    ```
 4. Follow the on-screen (or spoken) menu to control the LED and sample sensor data.
+
+## Hardware of the project
+<br>
+<img width="697" height="626" alt="image" src="https://github.com/user-attachments/assets/5cc97533-74df-45f1-bc33-68e893a5f488" />
+
